@@ -1,5 +1,5 @@
 +++
-title = "Nur noch AfD"
+title = "Kritisches Denken und die AfD"
 date = "2023-12-22"
 draft = false
 pinned = false
