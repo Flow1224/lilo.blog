@@ -3,7 +3,7 @@ title = "Kritisches Denken und die AfD"
 date = "2023-12-22"
 draft = false
 pinned = false
-tags = ["#Deutsch"]
+tags = ["#Deutsch", "#KD"]
 image = "screenshot-2023-12-22-090903.png"
 +++
 Unter Anwendung des kritischen Denkens analysiere ich die Kommentare des YouTube-Videos "Karsten Hilse rechnet mit grüner Klima-Politik ab!", welches von der "AfD-Fraktion im Bundestag" veröffentlicht wurde.
