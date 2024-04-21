@@ -5,6 +5,7 @@ draft = false
 pinned = false
 tags = ["#Deutsch", "#KD"]
 image = "screenshot-2023-12-22-090903.png"
+footnotes = "Quellen: https://chat.openai.com/; https://www.youtube.com/"
 +++
 # Nur noch AfD
 
