@@ -3,7 +3,7 @@ title = "Woyzeck"
 date = "2024-04-21"
 draft = false
 pinned = false
-footnotes = "Quellen: https://www.studysmarter.de/schule/deutsch/interpretation-literarischer-texte/woyzeck-interpretation/; https://studyflix.de/deutsch/woyzeck-interpretation-4137; https://www.frustfrei-lernen.de/deutsch/woyzeck-szenenanalyse-interpretation-szene.html"
+footnotes = "Quellen: https://www.studysmarter.de/schule/deutsch/interpretation-literarischer-texte/woyzeck-interpretation/; https://studyflix.de/deutsch/woyzeck-interpretation-4137; https://www.frustfrei-lernen.de/deutsch/woyzeck-szenenanalyse-interpretation-szene.html; https://chat.openai.com/"
 +++
 # Woyzeck und die Probleme unserer Zeit
 
