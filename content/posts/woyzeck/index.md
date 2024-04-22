@@ -26,8 +26,8 @@ In der ersten Szene (BEIM HAUPTMANN) rasiert Woyzeck den Hauptmann. Dieses Sinnb
 
 Woyzeck verdeutlicht die Herausforderungen der einfachen Bevölkerung und ihre aussichtslose Situation.Die Probleme der Menschen haben sich in den letzten 200 Jahren verbessert, sind aber immer noch vorhanden. Einige haben bessere Lebensperspektiven als andere. Es bleibt abzuwarten, wie sich die Situation in den nächsten 200 Jahren entwickeln wird.
 
-
-
-###### Über das Schreiben
+###### {{<box title="Über das Schreiben">}}
 
 Bevor ich den Text über "Woyzeck" verfasste, habe ich das Dramenfragment erneut kurz überflogen und meine Unterrichtsnotizen durchgesehen, um mir einen klaren Überblick zu verschaffen. Danach habe ich darüber nachgedacht, auf welchen Aspekt ich mich im ersten Teil konzentrieren möchte. Ich begann allgemein und entschied mich dann, die Frage der Schuld zu behandeln, basierend auf meinen Unterrichtsnotizen. Im zweiten Teil plante ich, Problematiken aus einzelnen Szenen mit der heutigen Gesellschaft zu vergleichen. Dafür verwendete ich meine eigenen Interpretationen sowie die aus dem Unterricht. Besonders wegen des Fragmentcharakters des Stücks wollte ich auch verschiedene Interpretationen aus Websites und ChatGPT berücksichtigen, um zu prüfen, ob sie meine Ansichten bestätigen, widersprechen oder ergänzen. Die unterschiedlichen Szenenreihenfolgen stellten eine Herausforderung dar, da jede Szene separat gesucht werden musste und verschiedene Interpretationen je nach Vorwissen entstanden. Abschließend habe ich ChatGPT um inhaltliche und stilistische Verbesserungsvorschläge gebeten und einzelne Formulierungen, Strukturen und Ideen in meinen Text integriert. Trotz der Fülle an Informationen musste ich mich kurz fassen und versuchen, das Wesentliche prägnant darzustellen, was für mich eine Herausforderung darstellte. Am Ende bin ich mit dem Ergebnis zufrieden, da ich den Text sorgfältig überarbeitet und mir vor dem Schreiben einen klaren Plan zurechtgelegt habe.
+
+{{</box>}}
