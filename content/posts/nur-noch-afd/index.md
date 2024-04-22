@@ -27,7 +27,7 @@ Ich habe die Kommentare unter dem Video "Karsten Hilse rechnet mit grüner Klima
 
 Zusammenfassend möchte ich sagen, dass man genau an solchen Beispielen, Kommentare unter AfD-Videos, sieht, dass man insbesondere online schnell den Überblick verliert und von den Kommentaren und genannten Fakten beeinflusst wird, obwohl diese nicht immer objektiv und faktenbasiert sind. Daher ist es wichtig kritisch zu denken und Aussagen zu hinterfragen, nur so kann Politik wirkungsvoll funktionieren.
 
-##### Schreibprozess
+##### {{<box title="Der Schreibprozess">}}
 
 Um die Einleitung zum Thema "Kritisches Denken" zu schreiben, habe ich zuerst meine Notizen durchgelesen und geordnet. Anschließend habe ich eine Einleitung verfasst, um das, was wir in einigen Unterrichtsstunden gelernt haben, kurz zusammenzufassen. Anhand eines Beispiels aus dem Unterricht sollte das Verfahren, das wir zum Analysieren von Kommentaren genutzt haben, aufgezeigt werden. Ich fand diesen Aspekt des kritischen Denkens am spannendsten und habe mich entschieden, im zweiten Teil Kommentare unter einem AfD-Video zu untersuchen. Dabei war es wichtig, ein Video mit genügend und abwechslungsreichen Kommentaren zu wählen. Außerdem wollte ich ein Video auswählen, das über ein relativ einfaches und weitverbreitetes Thema handelt, damit das Mitdiskutieren am Dialog für die meisten Menschen möglich ist. Ich wählte einige Kommentare aus, analysierte sie und habe mithilfe von ChatGPT dann noch Fehler korrigiert, umstrukturiert und Formulierungen verbessert. Zum Schluss habe ich Mitschüler um Kritik und Ergänzungsvorschläge gebeten.
 
