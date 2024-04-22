@@ -3,7 +3,7 @@ title = "Kritisches Denken und die AfD"
 date = "2023-12-22"
 draft = false
 pinned = false
-tags = ["#Deutsch", "#KD"]
+tags = ["deutsch", "KD"]
 image = "screenshot-2023-12-22-090903.png"
 footnotes = "Quellen: https://chat.openai.com/; https://www.youtube.com/"
 +++
