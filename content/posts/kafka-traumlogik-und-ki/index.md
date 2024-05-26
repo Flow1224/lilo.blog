@@ -4,9 +4,7 @@ date = "2024-05-26"
 draft = true
 pinned = false
 +++
-
-
-# Kafka 
+# Kafka
 
 – ein Mensch, der uns in den letzten Wochen im Deutschunterricht regelmäßig begleitete. Geboren im Österreichisch-Ungarischen (heute Tschechischen) Prag in eine jüdische Kaufmannsfamilie im Jahr 1883. Nach Abschluss seines Studiums der Rechtswissenschaften arbeitete er als Jurist bei einer Arbeiter-Unfallversicherung. Beim Besuch eines Vortrags von Reiner Stach über Kafkas Begabungen erhielten wir ein genaueres Bild dieses Autors. Mit dem Schreiben fing er schon in seiner Jugend an und schrieb während seiner Tätigkeiten als Jurist stets weiter. Er schrieb auch oft Textfragmenten, welche irgendwo anfingen und aufhörten. Viele seiner markantesten Werke waren unvollendet und wurden nach seinem Tod gegen seinen Willen von einem Freund veröffentlicht. Kafka dachte auch viel in Metaphern, welche seine Texte gleichzeitig verständlich und unverständlich machten. In seinen Texten findet man auch oft Elemente der Realität in Kombination mit seiner surrealen, traumartigen Logik – seine kafkaeske Art.
 
@@ -21,5 +19,7 @@ Meiner Ansicht nach hat Kafka in "Die Verwandlung" einen wichtigen Aspekt der Me
 Ob Kafka mit seiner Geschichte auf zukünftige gesellschaftliche Probleme anspielen wollte oder ob es sich hier doch nur um zufällige Übereinstimmungen zwischen "Die Verwandlung" und unserer heutigen Zeit handelt, kann man nicht genau bestimmen. Ich denke jedoch, dass er beim Schreiben durchaus an nachfolgende Generationen dachte. Sein Verständnis für seine Umgebung und die verschiedenen Perspektiven war laut Stach sehr ausgeprägt und ist für mich in seinem Schreibstil wiederzufinden. In "Die Verwandlung" zeigt Kafka gesellschaftliche Probleme auf und versucht gleichzeitig, die Menschen vor zukünftigen Konflikten zu warnen.
 
 ##### {{<box title="Der Schreibprozess">}}
- 
+
 Ich fand es verglichen mit anderen Blog-Einträge schwierig meine Gedanken zu Kafka und Kafkas Verwandlung in Form eines Texts niederzuschreiben. Die verschiedenen Inputs aus dem Unterricht und dem Vortrag führten dazu, dass ich auch ein abstraktes, nicht definiertes Bild von Kafkas erhielt und die Verwandlung nie klar und eindeutig verstehen konnte. Beim Schreiben dieses Blogs musste ich daher viel an der Reihenfolge des Geschriebenen Arbeiten und versuchen einen roten Faden zu behalten. Um dies geschickt umzusetzen, habe ich Mithilfe von ChatGPT Sätze und Textausschnitte versucht umzustrukturieren um auf die beste Reihenfolge zu kommen.
+
+{{</box>}}
