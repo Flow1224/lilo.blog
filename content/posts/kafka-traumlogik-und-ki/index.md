@@ -3,6 +3,7 @@ title = "Kafka"
 date = "2024-05-26"
 draft = true
 pinned = false
+tags = ["deutsch", "kafka"]
 footnotes = "Quelle: https://chat.openai.com/"
 +++
 # Kafka
