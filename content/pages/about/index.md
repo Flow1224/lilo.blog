@@ -2,7 +2,7 @@
 title = "About me"
 draft = false
 description = ""
-image = "/img/default-author.jpg"
+image = "/img/Kinderfoto.jpg"
 +++
 ![](/img/default-author.jpg)
 
