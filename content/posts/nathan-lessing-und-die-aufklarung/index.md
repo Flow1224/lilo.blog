@@ -26,7 +26,7 @@ Der Mensch wird als Ideal dargestellt, welcher vernünftig und eigenständig Den
 
 Nathan der Weise und die Leitideen mit der dieser Geschichte konstruierten wurden sind schlüssig und können die Menschen aufklären und zu einem verbesserten Zusammenleben führen und die Gesellschaft als Ganzes bessern. Jedoch sollten Menschliche Schwächen mehr berücksichtigt werden.
 
-##### {{<box title="Der Schreibprozess">}}
+##### {{<box title="Über den Schreibprozess">}}
 
 Zu dem theoretischen Teil des Blogs über den Unterrichtsstoff zu Schreiben musste ich nicht wer nach Ideen und Inhalt suchen da ich zu Nathan der Weise viele Notizen hatte. Mich interessierte während dem Unterricht insbesondere die Ideen der Aufklärung der
 
