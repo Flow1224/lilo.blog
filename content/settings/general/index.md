@@ -1,7 +1,7 @@
 +++
 headless = true
 title = "Flos wundervoller Blog"
-description = "-"
+description = "Nett hier."
 footerLeft = ""
 footerRight = ""
 +++
