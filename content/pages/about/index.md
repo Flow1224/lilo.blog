@@ -1,5 +1,5 @@
 +++
-title = "Geschichten aus dem Paulanergarten"
+title = "\"Geschichten aus dem Paulanergarten\""
 draft = false
 image = ""
 description = ""
