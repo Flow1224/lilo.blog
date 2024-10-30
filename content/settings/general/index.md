@@ -1,6 +1,6 @@
 +++
 headless = true
-title = "Flo"
+title = "Flos wundervoller Blog"
 description = "-"
 footerLeft = ""
 footerRight = ""
