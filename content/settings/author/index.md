@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "My Name"
+name = "Flo"
 image = "/media/paulaner_spezi.jpg"
 url = "/about/"
 +++
