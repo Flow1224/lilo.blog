@@ -1,10 +1,10 @@
 +++
-title = "About me"
+title = "Geschichten aus dem Paulanergarten"
 draft = false
-image = "773433505_234173801_1706x960.webp"
+image = ""
 description = ""
 +++
-![](/img/default-author.jpg)
+![](773433505_234173801_1706x960.webp)
 
 ## My Name
 
