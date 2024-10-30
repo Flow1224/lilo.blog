@@ -1,7 +1,7 @@
 +++
 headless = true
 title = "Flos wundervoller Blog"
-description = "\"Vom freien Feld bis zu den rutschenden Dächern\""
+description = "\"Vom Freien Feld bis zu den Rutschenden Dächern\""
 footerLeft = ""
 footerRight = ""
 +++
