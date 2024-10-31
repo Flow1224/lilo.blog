@@ -4,7 +4,8 @@ date = "2024-05-26"
 draft = false
 pinned = false
 tags = ["deutsch", "kafka"]
-footnotes = "Quelle: https://chat.openai.com/"
+image = "77658_hc_kafka_abb_011r-1.jpg"
+footnotes = "Bild: https://lithub.com\n\nQuelle: https://chat.openai.com/"
 +++
 # Kafka
 
