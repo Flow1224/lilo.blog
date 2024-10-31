@@ -4,7 +4,7 @@ date = "2023-12-22"
 draft = false
 pinned = false
 tags = ["deutsch", "KD"]
-image = "screenshot-2023-12-22-090903.png"
+image = "screenshot-2024-10-31-115655.png"
 footnotes = "Quellen: https://chat.openai.com/; https://www.youtube.com/"
 +++
 # Nur noch AfD
