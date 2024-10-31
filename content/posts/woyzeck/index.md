@@ -4,7 +4,8 @@ date = "2024-04-21"
 draft = false
 pinned = false
 tags = ["deutsch", "woyzeck"]
-footnotes = "Quellen: https://www.studysmarter.de/schule/deutsch/interpretation-literarischer-texte/woyzeck-interpretation/; https://studyflix.de/deutsch/woyzeck-interpretation-4137; https://www.frustfrei-lernen.de/deutsch/woyzeck-szenenanalyse-interpretation-szene.html; https://chat.openai.com/"
+image = "vincent-van-gogh-wheatfield-with-cypresses-1889-meisterdrucke-96276-.jpg"
+footnotes = "Quellen: https://www.studysmarter.de/schule/deutsch/interpretation-literarischer-texte/woyzeck-interpretation/; https://studyflix.de/deutsch/woyzeck-interpretation-4137; https://www.frustfrei-lernen.de/deutsch/woyzeck-szenenanalyse-interpretation-szene.html; https://chat.openai.com/\n\nBild: https://www.meisterdrucke.com"
 +++
 # Woyzeck und die Probleme unserer Zeit
 
